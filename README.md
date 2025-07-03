@@ -44,7 +44,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/manan-a537/punjabi-jukebox-harmony-main.git
+git clone https://github.com/manan-a537/Punjabi-Jukebox.git
 cd punjabi-jukebox-harmony-main
 
 Install dependencies:
